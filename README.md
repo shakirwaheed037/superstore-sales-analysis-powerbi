@@ -98,7 +98,7 @@ These filters allow users to explore the dashboard according to specific custome
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Executive Dashboard](dashboard/executive-sales-dashboard.png)
+![Superstore Executive Dashboard](Dashboard/sales_dashoard.png)
 
 ## 🔄 Data Analytics Workflow
 
